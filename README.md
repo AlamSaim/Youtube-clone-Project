@@ -8,7 +8,7 @@ This project demonstrates responsive layouts, component-based structure, routing
 ## 🔗 Live Demo
 
 👉 [Click to View Live Project]<br>
-(https://your-vercel-link.vercel.app)
+ (https://youtube-clone-project-git-main-kingsaim234gmailcoms-projects.vercel.app/)
 
 ---
 
@@ -43,28 +43,37 @@ This project demonstrates responsive layouts, component-based structure, routing
 
 ## 📁 Folder Structure
 
-src/
-├── components/
-│   ├── Navbar.jsx
-│   ├── Feed.jsx
-│   ├── VideoCard.jsx
-│   └── VideoDetail.jsx
-├── utils/
-│   └── fetchFromAPI.js
-├── App.jsx
-└── index.js
+src/ <br>
+├── components/ <br>
+│   ├── Navbar.jsx <br>
+│   ├── Feed.jsx <br>
+│   ├── VideoCard.jsx <br>
+│   └── VideoDetail.jsx <br>
+├── utils/ <br>
+│   └── fetchFromAPI.js <br>
+├── App.jsx <br>
+└── index.js <br>
 
 ---
 
 ## 📦 Installation
 
-git clone https://github.com/yourusername/youtube-clone-react.git
-cd youtube-clone-react
-npm install
-npm start
+git clone https://github.com/AlamSaim/youtube-clone-react.git<br>
+cd youtube-clone-<br>
+npm install<br>
+npm start<br>
 
 ---
 
 ## 🙌 Author
-Made with ❤️ by Saim Alam
+
+Made with ❤️ by Saim Alam <br>
+https://saim-portfolio-nu.vercel.app/
+
+---
+
+## 📄 License
+
+This project is open source under the MIT License. <br>
+This project was built as part of my React Frontend Developer portfolio.
 
